@@ -1,7 +1,10 @@
 transformers
---extra-index-url https://download.pytorch.org/whl/cpu
+datasets
+#--extra-index-url https://download.pytorch.org/whl/cpu
 torch
 torchvision
 torchaudio
 pandas
 numpy
+ipykernel
+ipywidgets
